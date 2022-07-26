@@ -11,6 +11,7 @@
 	<groupId>ec.edu.ups</groupId>
 	<artifactId>ServiciosWebPizzeria</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>ServiciosWebPizzeria</name>
 	<description>Integracion de servicios web con Postman</description>
 	<properties>
