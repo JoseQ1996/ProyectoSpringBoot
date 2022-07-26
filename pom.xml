@@ -16,7 +16,7 @@
 	<description>Integracion de servicios web con Postman</description>
 	<properties>
 		<java.version>11</java.version>
-		<maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
+		<maven-jar-plugin.version>3.8.5</maven-jar-plugin.version>
 	</properties>
 	<dependencies>
 		<dependency>
